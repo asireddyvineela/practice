@@ -1,2 +1,2 @@
 # practice
-learning
+learning about github
