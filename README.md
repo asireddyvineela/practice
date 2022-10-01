@@ -1,2 +1,3 @@
 # practice
-learning about github git
+learning about github git bitbucket
+
